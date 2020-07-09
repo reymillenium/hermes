@@ -1,0 +1,10 @@
+<gallery>
+  <album name="&lt;font size=&quot;11&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Material de muestra&lt;/font&gt;" description="&lt;font size=&quot;10&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Ejemplo de videos montados&lt;/font&gt;" tnsrc="Videos/tn_Logo_Salvavidas 40 X 40 Fondo Oscuro.jpg">
+    <slide type="flv" src="Videos/SALVAVIDAS.flv" previewsrc="Videos/pv_SALVAVIDAS.jpg" tnsrc="Videos/tn_SALVAVIDAS.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;SALVAVIDAS.mpg&lt;/font&gt;"/>
+    <slide type="flv" src="Videos/SALIDA1.flv" previewsrc="Videos/pv_SALIDA1.jpg" tnsrc="Videos/tn_SALIDA1.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;SALIDA1.mpeg&lt;/font&gt;"/>
+    <slide type="flv" src="Videos/Anders fly arriba.flv" previewsrc="Videos/pv_Anders fly arriba.jpg" tnsrc="Videos/tn_Anders fly arriba.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Anders fly arriba.mpeg&lt;/font&gt;"/>
+    <slide type="flv" src="Videos/Anders fly frente .flv" previewsrc="Videos/pv_Anders fly frente .jpg" tnsrc="Videos/tn_Anders fly frente .jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Anders fly frente .mpeg&lt;/font&gt;"/>
+    <slide type="flv" src="Videos/PECHO.flv" previewsrc="Videos/pv_PECHO.jpg" tnsrc="Videos/tn_PECHO.jpg" effect="fadein" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;PECHO.mpeg&lt;/font&gt;"/>
+  </album>
+  <album name="&lt;font size=&quot;11&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Album&lt;/font&gt;" description="&lt;font size=&quot;10&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Segundo Album de prueba&lt;/font&gt;" tnsrc="Videos/tn_Doctor con Estetóscopo.jpg" tnscalemode="scaletofit"/>
+</gallery>
